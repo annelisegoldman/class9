@@ -2,25 +2,20 @@
 
 1. Write the null and alternative hypotheses you would use to test each of the following situations:
 - Is a coin fair?
-<ul>
   - H0: the coin is fair, the probability of heads is 0.5
   - HA: the coin is not fair, the probability of heads is either more or less than 0
 - Only about 20% of people who try to quit smoking succeed. Sellers of a motivational tape claim that listening to the recorded messages can help people quit.
-<ul>
   - H0: even after listening to the motivational tape, only 20% of people are able to quit smoking 
   - HA: after listening to the motivational tape, the probability of quitting is greater than 0.2
 - In the 1950s only about 40% of high school graduates went on to college. Has this percentage changed?
-<ul>
   - H0: The probability of going to college after high school is 0.4
   - HA: The probability of going to college after higher school is either greater or less than 0.4
 - We field test a new type of pipette, planning to market it only if we are sure that at least 60% of people like the new version.
-<ul>
   - H0: The probability of liking the new pipette is less than 0.6
   - HA: The probability of liking the new pipette is greater than 0.6
 
 
 2. A survey investigating whether the proportion of today’s high school seniors who own their own cars is higher than it was a decade ago finds a p-value of 0.017. Is it reasonable to conclude that more high schoolers have cars? Explain.
-<ul>
   Yes, it might be, depending on how the test is designed. The null hypothesis is that the proportion of high school seniors who own cars now is the same as it was   10 years ago, and the alternative hypothesis is that a different proportion of students own their own cars. We usually accept HA when the p-value is less than       0.05, which it is. However, I'm not sure it's possible to conclude just from this test if students own more cars or fewer cars; more information on the test is     needed.
 
 
