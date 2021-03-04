@@ -16,7 +16,8 @@
 
 
 2. A survey investigating whether the proportion of today’s high school seniors who own their own cars is higher than it was a decade ago finds a p-value of 0.017. Is it reasonable to conclude that more high schoolers have cars? Explain.
-  Yes, it might be, depending on how the test is designed. The null hypothesis is that the proportion of high school seniors who own cars now is the same as it was   10 years ago, and the alternative hypothesis is that a different proportion of students own their own cars. We usually accept HA when the p-value is less than       0.05, which it is. However, I'm not sure it's possible to conclude just from this test if students own more cars or fewer cars; more information on the test is     needed.
+
+Yes, it might be, depending on how the test is designed. The null hypothesis is that the proportion of high school seniors who own cars now is the same as it was 10 years ago, and the alternative hypothesis is that a different proportion of students own their own cars. We usually accept HA when the p-value is less than   0.05, which it is. However, I'm not sure it's possible to conclude just from this test if students own more cars or fewer cars; more information on the test is     needed.
 
 
 3. A medical researcher tested a new treatment for poison ivy against the traditional ointment. With a p-value of 0.047 she concludes the new treatment is more effective. What does the p-value mean in this context?
